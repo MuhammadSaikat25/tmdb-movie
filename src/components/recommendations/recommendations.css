@@ -1,0 +1,21 @@
+.recommendations-list {
+    /* padding: 10px; */
+    text-align: center;
+  }
+  
+  .recommendations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+  
+  .recommendation-card {
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .recommendation-card img {
+    width: 100%;
+    height: auto;
+  }
+  
